@@ -1,5 +1,4 @@
-# Health Fact — Fully Automated Daily Nutrition Shorts
-
+# TALISH AI
 An end-to-end n8n pipeline that researches a nutrition topic, writes a script, fact-checks it, generates a voiceover, sources stock visuals, assembles a vertical video with burned-in captions, and (optionally) uploads it to YouTube — once a day, hands-off, running entirely on free-tier infrastructure.
 
 No manual editing, no paid APIs, no SaaS video renderer. Just n8n, a few free-tier accounts, and a self-hosted Oracle Cloud VM.
