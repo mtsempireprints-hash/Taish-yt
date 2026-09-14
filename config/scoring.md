@@ -7,3 +7,13 @@ Emotional impact     10%
 Timeliness            5%
 Shareability          5%
 Production feasibility 5%
+
+Maximum
+
+85–100 → PRODUCE
+
+70–84 → IMPROVE
+
+55–69 → REWORK
+
+<55 → REJECT
